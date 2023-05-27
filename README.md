@@ -11,8 +11,6 @@ Liczbę naciśnięć spacji określa liczba wyświetlająca się nad głową gra
 
 [![1.png](https://i.postimg.cc/rFrdrNzS/1.png)](https://postimg.cc/Yhtqcg69)
 
-Po detekcji liczby naciśnięć spacji, program odczekuje określony czas i zarzuca wędke ponownie. Umożliwia to pełną automatyzację łowienia.
+Po rozpoznaniu liczby, następuje naciśnięcie spacji określoną określoną liczbę razy. Następnie program odczekuje określony czas i zarzuca wędke ponownie. Umożliwia to pełną automatyzację łowienia.
 
 Model wykorzystany do rozpoznawania liczb został przeze mnie wytrenowany w Google Colab: https://github.com/beazy96/MNIST_exercises
-
-
